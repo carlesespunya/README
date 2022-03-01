@@ -4,7 +4,7 @@
 📫 How to reach me: **carlespuna@gmail.com**
 
 
-👨‍💻 All of my projects are available at: https://brave-capricorn-58e.notion.site/Hey-I-m-Carles-Espu-a-5f98e27942794608be0a169e92136b3b
+👨‍💻 All of my projects are available at: https://www.notion.so/carles-espunya/Hey-I-m-Carles-Espu-a-5f98e27942794608be0a169e92136b3b
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
