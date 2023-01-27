@@ -3,9 +3,6 @@
 
 📫 How to reach me: **carlespuna@gmail.com**
 
-
-👨‍💻 All of my projects are available at: https://www.notion.so/carles-espunya/Hey-I-m-Carles-Espu-a-5f98e27942794608be0a169e92136b3b
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/carles-espu%C3%B1a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pascaltib" height="30" width="40" /></a>
