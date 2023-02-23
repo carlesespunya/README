@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carles Espuña</h1>
 
-Dedicated software developer seeking a challenge to apply my experience and knowledge. Looking for opportunities to learn, develop, and progress my career.
+<h3 align="center">Dedicated software developer seeking a challenge to apply my experience and knowledge. Looking for opportunities to learn, develop, and progress my career.</h3>
 
 As a highly motivated and results-driven software developer with a background in business, I bring a unique skill set to the table. With a passion for technology and a deep understanding of software development, I have been able to make a successful career in both developing and teaching.
 
