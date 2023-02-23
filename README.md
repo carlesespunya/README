@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carles Espuña</h1>
-<h3 align="center">Dedicated web developer seeking a challenge to apply my experience and knowledge. Looking for opportunities to learn, develop, and progress my career</h3>
+<h3 align="center">Dedicated software developer seeking a challenge to apply my experience and knowledge. Looking for opportunities to learn, develop, and progress my career</h3>
 
 📫 How to reach me: **carlespuna@gmail.com**
 
